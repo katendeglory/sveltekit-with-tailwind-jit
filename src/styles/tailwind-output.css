@@ -596,10 +596,6 @@ video {
 	--tw-backdrop-sepia: var(--tw-empty,/*!*/ /*!*/);
 	--tw-backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);
 }
-.bg-\[red\] {
-	--tw-bg-opacity: 1;
-	background-color: rgba(255, 0, 0, var(--tw-bg-opacity));
-}
 .bg-\[green\] {
 	--tw-bg-opacity: 1;
 	background-color: rgba(0, 128, 0, var(--tw-bg-opacity));
